@@ -1,0 +1,46 @@
+*{
+    background-color:bisque;
+}
+ .intro{
+    text-align: center;
+    
+    text-decoration: wavy;
+}
+div i{
+    background-color: goldenrod;
+    text-decoration: underline;
+} 
+h1 span{
+    background-color: aqua;
+    text-align: center;
+}
+#photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+}
+.head{
+    background-color: darkmagenta;
+    text-align: center;
+    text-shadow: black;
+    font-weight: 900;
+    font-size: large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+p{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bolder;
+    color: cadetblue;
+    font-size: 25px;  
+}
+div {
+    text-align: center;
+}
+a{
+    display: block;
+    font-size: 25px;
+}
